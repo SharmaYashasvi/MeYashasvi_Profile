@@ -1,7 +1,7 @@
 // typing
 
 var typed = new Typed(".typing",{
-    strings:["      ","Web Designing","MERN Stack Web Develoment","Position->(Secratry of Cricket Club (IIITV-ICD))"],
+    strings:["      ","Web Designing","MERN Stack Web Develoment"],
     typeSpeed:50,
     BackSpeed:50,
     loop:true
